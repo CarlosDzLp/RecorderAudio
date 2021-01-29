@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{84425831-421F-48DF-95DB-58B50E794F3E}|Default">
+  <MonoDevelop.Ide.ItemProperties.RecorderAudioXam.iOS FirstBuild="True" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecorderAudioXam" expanded="True">
+            <Node name="RecorderAudioXam" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecorderAudioXam.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.A4N4C19B25003791" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carlosdiazlopez/RecorderAudio/RecorderAudioXam/RecorderAudioXam/MainPage.xaml.cs" relfile="RecorderAudioXam/MainPage.xaml.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
